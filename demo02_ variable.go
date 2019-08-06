@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+/*
+	变量的声明
+		- 使用关键字 var 进行声明
+		- 写法一般是：var 变量名 变量类型 = 值
+		- 省略 var 关键字的写法 :=
+*/
+
 var (
 	aa = 12
 	bb = "hello world"

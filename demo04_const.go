@@ -1,5 +1,13 @@
 package main
 
+/**
+笔记： https://www.yuque.com/continue/go/hpaiis
+	常量的声明：
+		- const 数值如果不指定数据类型可作为各种类型使用
+		- 枚举类型的定义
+		- iota的使用
+*/
+
 import (
 	"fmt"
 	"math"

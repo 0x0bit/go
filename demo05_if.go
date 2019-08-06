@@ -1,5 +1,13 @@
 package main
 
+/**
+笔记： https://www.yuque.com/continue/go/tv4iv3
+流程控制结构
+	- if
+	- if……else
+	- switch
+		- switch...case： 后不需要 break
+*/
 import (
 	"fmt"
 	"io/ioutil"

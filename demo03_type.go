@@ -1,5 +1,18 @@
 package main
 
+/**
+笔记地址：https://www.yuque.com/continue/go/hkir4x
+
+go 语言内置的数据类型
+	- bool，
+	- sting,
+	- 整型（int int32 int64 ...）
+	- byte
+	- rune (没有了char 使用rune， 64)
+	- 浮点数(float32, float64)
+	- 复数
+*/
+
 import (
 	"fmt"
 	"math"

@@ -1,5 +1,9 @@
 package main
 
+/*
+	hello world
+*/
+
 import "fmt"
 
 func main() {

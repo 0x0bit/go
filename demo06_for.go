@@ -1,5 +1,15 @@
 package main
 
+/*
+笔记：https://www.yuque.com/continue/go/zb108r
+	- for
+		- 可以省略起始条件
+		- 可以省略自增
+
+	- 没有while 循环
+		- for 循环只有条件语句的时候
+*/
+
 import (
 	"bufio"
 	"fmt"
